@@ -29,5 +29,6 @@ Package: transformers (if used locally)
 Chroma: A vector store for managing embeddings.
 
 Package: langchain_community.vectorstores
-Summary:
-These dependencies are essential for the functionality of the application, enabling it to load documents, process text, generate embeddings, and serve as a web API.
+
+
+Summary: These dependencies are essential for the functionality of the application, enabling it to load documents, process text, generate embeddings, and serve as a web API.
